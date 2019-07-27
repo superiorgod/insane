@@ -1,0 +1,4 @@
+﻿  ShrekAI.cpp
+c:\users\edpscr\source\repos\shrekbot\shrekbot\shrekai.cpp(257): warning C4101: 'y': unreferenced local variable
+c:\users\edpscr\source\repos\shrekbot\shrekbot\shrekai.cpp(257): warning C4101: 'x': unreferenced local variable
+  ShrekBot.vcxproj -> C:\Users\edpscr\source\repos\ShrekBot\Debug\ShrekBot.exe
